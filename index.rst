@@ -1,5 +1,5 @@
 ==========================
-Deepmodeling documentations
+DeepModeling documentations
 ==========================
 
 `DeePMD-kit <https://docs.deepmodeling.org/projects/deepmd/en/latest/>`_
