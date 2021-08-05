@@ -1,10 +1,30 @@
 ==========================
-Deepmodeling documentations
+DeepModeling documentations
 ==========================
 
 `DeePMD-kit <https://docs.deepmodeling.org/projects/deepmd/en/latest/>`_
 
 `DPDispatcher <https://docs.deepmodeling.org/projects/dpdispatcher/en/latest/>`_
+
+Third Party Documentations
+=========================
+
+Below lists documentations written by third parties.
+You might want to write your own documentation to introduce users to one of the softwares in DeepModeling community, or to offer institution-specific information, e.g. by pointing users to local workshops, training opportunities and support.
+
+Feel free to copy and repurpose any content (text, images, videos, etc.) to help support and promote the softwares in DeepModeling community.
+
+We always welcome contributions to this part and to the rest of documentations in the `DeepModeling github repositories <https://github.com/deepmodeling/>`_.
+
+----------------
+
+`XMU ChengGroup Wiki <https://chenggroup.github.io/>`_. Created by Huang Jianxing, XiaMen University.
+
+`[ChengLab]DeePMD-kit:化学与机器学习的结合 <https://www.bilibili.com/video/BV1CV411m7H7>`_. Bilibili video tutorial created by Robinzhuang, XiaMen University.
+
+`[ChengLab]DP-GEN:深度势能生成器教程 <https://www.bilibili.com/video/BV1Ba4y1j7He>`_. Bilibili video tutorial created by Robinzhuang, XiaMen University.
+
+------------------
 
 
 * :ref:`genindex`
