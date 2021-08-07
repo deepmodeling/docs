@@ -37,7 +37,6 @@ Basic theoretical courses
 
 `基于深度学习的分子动力学模拟 <https://www.bilibili.com/video/BV14L411E7nf>`_. Bilibili video tutorial created by WangHan. (LANGUAGE=CHINESE)
 
-
 ------------------
 
 
