@@ -21,7 +21,7 @@ We always welcome contributions to this part and to the rest of documentations i
 DeePMD-kit and DPGEN
 --------------------
 
-`XMU ChengGroup Wiki <https://chenggroup.github.io/>`_. Created by Huang Jianxing, XiaMen University.(LANGUAGE=CHINESE)
+`XMU ChengGroup Wiki <https://wiki.cheng-group.net>`_. Created by Jing-Fang Xiong and Yun-Pei Liu, XiaMen University.(LANGUAGE=CHINESE)
 
 `[ChengLab]DeePMD-kit:化学与机器学习的结合 <https://www.bilibili.com/video/BV1CV411m7H7>`_. Bilibili video tutorial created by Robinzhuang, XiaMen University.(LANGUAGE=CHINESE)
 
