@@ -5,10 +5,10 @@ DeepModeling documentations
 .. toctree::
    :maxdepth: 1
 
-   DeePMD-kit </projects/deepmd/#>
-   DP-GEN </projects/dpgen/#>
-   dpdata </projects/dpdata/#>
-   DPDispatcher </projects/dpdispatcher/#>
+   DeePMD-kit </projects/deepmd/#https://>
+   DP-GEN </projects/dpgen/#https://>
+   dpdata </projects/dpdata/#https://>
+   DPDispatcher </projects/dpdispatcher/#https://>
 
 Third Party Documentations
 =========================
