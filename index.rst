@@ -2,9 +2,13 @@
 DeepModeling documentations
 ==========================
 
-`DeePMD-kit <https://docs.deepmodeling.org/projects/deepmd/en/latest/>`_
+.. toctree::
+   :maxdepth: 1
 
-`DPDispatcher <https://docs.deepmodeling.org/projects/dpdispatcher/en/latest/>`_
+   DeePMD-kit </projects/deepmd/>
+   DP-GEN </projects/dpgen/>
+   dpdata </projects/dpdata/>
+   DPDispatcher </projects/dpdispatcher/>
 
 Third Party Documentations
 =========================
