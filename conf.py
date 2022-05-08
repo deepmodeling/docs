@@ -8,4 +8,4 @@ extensions = [
     'deepmodeling_sphinx',
 ]
 html_theme = 'sphinx_rtd_theme'
-html_favicon = 'favicon.ico'
+html_extra_path = ['favicon.ico']
