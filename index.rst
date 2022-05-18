@@ -9,6 +9,7 @@ DeepModeling documentations
    DP-GEN </projects/dpgen/#https://>
    dpdata </projects/dpdata/#https://>
    DPDispatcher </projects/dpdispatcher/#https://>
+   dargs</projects/dargs/#https://>
 
 ------------------
 
