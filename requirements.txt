@@ -1,2 +1,3 @@
 sphinx_rtd_theme
 deepmodeling_sphinx
+sphinx-favicon
