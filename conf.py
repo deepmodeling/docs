@@ -12,7 +12,7 @@ html_theme = 'sphinx_rtd_theme'
 favicons = [
     {
         "rel": "icon",
-        "static-file": "https://unpkg.com/@njzjz/icons@0.0.4/logos/deepmodeling.png",
+        "href": "https://unpkg.com/@njzjz/icons@0.0.4/logos/deepmodeling.png",
         "type": "image/svg+xml",
     },
 ]
