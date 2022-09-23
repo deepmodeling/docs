@@ -10,7 +10,7 @@ DeepModeling documentations
    dpdata </projects/dpdata/#https://>
    DPDispatcher </projects/dpdispatcher/#https://>
    dargs</projects/dargs/#https://>
-
+   ABACUS <https://abacus.deepmodeling.com/>
 ------------------
 
 
