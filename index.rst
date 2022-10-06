@@ -11,6 +11,7 @@ DeepModeling documentations
    DPDispatcher </projects/dpdispatcher/#https://>
    dargs</projects/dargs/#https://>
    ABACUS <https://abacus.deepmodeling.com/>
+   dpgen2 </projects/dpgen2/#https://>
 ------------------
 
 
