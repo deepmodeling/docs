@@ -12,6 +12,7 @@ DeepModeling documentations
    dargs</projects/dargs/#https://>
    ABACUS <https://abacus.deepmodeling.com/>
    dpgen2 </projects/dpgen2/#https://>
+   DeepFlame </projects/deepflame/#https://>
 ------------------
 
 
