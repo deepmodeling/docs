@@ -17,3 +17,7 @@ def copy_custom_files(app):
         google_html = cwd / "googleb1dcd004739ab7d2.html"
         os.makedirs(staticdir, exist_ok=True)
         copy_asset_file(str(google_html), staticdir)
+
+
+def setup(app):
+    app.connect("builder-inited", copy_custom_files)
