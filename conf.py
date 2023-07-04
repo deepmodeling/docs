@@ -21,3 +21,4 @@ def copy_custom_files(app):
 
 def setup(app):
     app.connect("builder-inited", copy_custom_files)
+    return {"parallel_read_safe": True}
