@@ -13,6 +13,7 @@ DeepModeling documentations
    ABACUS <https://abacus.deepmodeling.com/>
    dpgen2 </projects/dpgen2/#https://>
    DeepFlame <https://deepflame.deepmodeling.com/>
+   DPTI </projects/dpti/#https://>
 ------------------
 
 
