@@ -14,6 +14,7 @@ DeepModeling documentations
    dpgen2 </projects/dpgen2/#https://>
    DeepFlame <https://deepflame.deepmodeling.com/>
    DPTI </projects/dpti/#https://>
+   ReacNetGenerator </projects/reacnetgenerator/#https://>
 ------------------
 
 
