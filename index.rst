@@ -15,6 +15,12 @@ DeepModeling documentations
    DeepFlame <https://deepflame.deepmodeling.com/>
    DPTI </projects/dpti/#https://>
    ReacNetGenerator </projects/reacnetgenerator/#https://>
+
+.. toctree::
+   :caption: FAQ
+
+   faq/conda
+
 ------------------
 
 
