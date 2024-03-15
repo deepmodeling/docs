@@ -12,6 +12,9 @@ extensions = [
     'deepmodeling_sphinx',
     'myst_parser',
 ]
+myst_enable_extensions = [
+    'colon_fence',
+]
 html_theme = 'sphinx_rtd_theme'
 
 def copy_custom_files(app):
