@@ -1,7 +1,7 @@
 # Conda/pip environments
 
 :::{note}
-The following instructions are for the Linux operator system.
+The following instructions are for the Linux operating system.
 Most DeepModeling projects fully support the Linux OS but lack support for other OS.
 If you use the Windows OS, you can use [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/).
 :::
