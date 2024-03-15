@@ -8,7 +8,7 @@ The following instructions are for Miniforge but should also work for the offlin
 
 An environment is a directory that contains a specific collection of packages that you have installed.
 Different environments are isolated from each other.
-A base environment is required before setuping up multiple environments.
+A base environment is required before setting up multiple environments.
 
 First of all, download and execute [conda-forge installer](https://conda-forge.org/download/):
 
@@ -57,7 +57,7 @@ Now you can activate the environment using
 conda activate my_env
 ```
 
-If you want to activate the environment in a shell script, using `shell` instead:
+If you want to activate the environment in a shell script, using `source` instead:
 
 ```sh
 source activate my_env
